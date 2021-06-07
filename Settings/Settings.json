@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "TOKEN",
+        "owner": "SAHİP ID",
+        "prefix": "PREFİX",
+        "botStatus": "botclub.net",
+        "botVoiceChannelID": "BOTUN SESE GİRCEĞİ KANAL ID"
+    },
+    "Roles": {
+        "BoyRole1": "ERKEK ROL 1",
+        "BoyRole2": "ERKEK ROL 2",
+        "GirlRole1": "KIZ ROL 1",
+        "GirlRole2": "KIZ ROL 2",
+        "Unregister": "KAYITSIZ ROL",
+        "Registerer": "YETKİLİ ROL",
+        "TagRole": "TAG ROL",
+        "Suspicious": "ŞÜPHELİ ROL",
+        "Jail": "JAİL ROL"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "SUNUCU ADI",
+            "ServerID": "SERVER ID",
+            "Tag": "TAG",
+            "UnTag": "UNTAG"
+    },
+        "Channels": {
+            "RegisterChat": "KAYIT CHAT",
+            "TagLog": "TAG LOG",
+            "Rules": "KURALLAR CHAT",
+            "GeneralChat": "GENEL CHAT"
+        },
+        "Welcome": {
+            "WelcomeChat": "HOŞGELDİN CHAT",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
